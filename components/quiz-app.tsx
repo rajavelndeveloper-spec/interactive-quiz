@@ -96,7 +96,7 @@ export function QuizApp() {
           <p className="intro-copy">Five questions. A handful of fun facts. One lovely little minute for your mind.</p>
           <div className="intro-footer">
             <div className="avatar-stack" aria-hidden="true"><span>J</span><span>M</span><span>A</span></div>
-            <span>Join <strong>2,400+</strong> curious people</span>
+            <span>Join <strong>2,500+</strong> curious people</span>
           </div>
           <span className="decorative-spark" aria-hidden="true">✳</span>
         </aside>
