@@ -4,7 +4,7 @@ import { useState } from 'react'
 
 const questions = [
   {
-    category: 'Nature',
+    category: 'Naturee',
     question: 'Which animal has three hearts?',
     answers: ['Blue whale', 'Octopus', 'Sea turtle', 'Dolphin'],
     correct: 1,
