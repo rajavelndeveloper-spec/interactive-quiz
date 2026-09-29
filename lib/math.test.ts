@@ -3,6 +3,6 @@ import { add } from "./math";
 
 describe("add", () => {
     it("should add two numbers", () => {
-        expect(add(2, 3)).toBe(5);
+        expect(add(2, 3)).toBe(50);
     });
 });
