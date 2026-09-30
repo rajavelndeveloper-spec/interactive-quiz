@@ -83,7 +83,7 @@ export function QuizApp() {
       <header className="site-header">
         <a className="brand" href="#home" aria-label="Little by little home">
           <span className="brand-mark" aria-hidden="true"><span /></span>
-          <span>little by little</span>
+          <span>little by little - sidhu</span>
         </a>
         <span className="header-note">A tiny quiz for curious minds</span>
         <a className="header-link" href="#about">Made for a mindful minute <span aria-hidden="true">↗</span></a>
